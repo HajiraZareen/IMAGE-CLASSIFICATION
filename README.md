@@ -24,7 +24,7 @@ This project demonstrates image classification using TensorFlow on Google Colab.
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/image-classification.git
+   git clone https://github.com/HajiraZareen/image-classification.git
    cd image-classification
 2. **Upload the Project to Google Colab:**
 - Upload the Image Classification - Colab.html file to your Google Drive.
@@ -38,6 +38,34 @@ This project demonstrates image classification using TensorFlow on Google Colab.
 - **Run the Notebook:**
 Open the Image Classification - Colab.html file in Google Colab.
 Follow the instructions within the notebook to preprocess data, build the model, train, and evaluate it.
-Make Predictions:
-
+- **Make Predictions:**
 Use the provided code in the notebook to upload an image and get a real-time prediction.
+ # Project Structure
+```bash
+ image-classification/
+├── Image Classification - Colab.html  # Main project notebook
+└── README.md                          # Project README file
+```
+## Usage
+1. **Data Preparation:**
+Ensure your dataset is properly formatted and accessible in Google Colab.
+The notebook will guide you through loading and preprocessing the data.
+
+2. **Model Training:**
+Train the CNN model using the provided training dataset.
+Monitor accuracy and loss metrics during training.
+
+3. **Evaluation:**
+Evaluate the model on a test dataset to assess its performance.
+
+5. **Prediction:**
+Input a new image to classify using the trained model.
+- ## Conclusion
+This project provides a basic approach to image classification using a CNN model in TensorFlow. It is a solid foundation for understanding deep learning concepts and can be extended for more complex tasks.
+
+- ## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+## Acknowledgements
+- **Google Colab for the platform.**
+- **TensorFlow for the deep learning framework.**
+ 
