@@ -33,7 +33,7 @@ This project demonstrates image classification using TensorFlow on Google Colab.
 3. **Install Required Packages:**
   ```bash
     !pip install tensorflow
-
+ ```
 ### Running the Application ###
 - **Run the Notebook:**
 Open the Image Classification - Colab.html file in Google Colab.
