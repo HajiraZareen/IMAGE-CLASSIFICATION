@@ -24,7 +24,7 @@ This project demonstrates image classification using TensorFlow on Google Colab.
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/HajiraZareen/image-classification.git
+   git clone https://github.com/HajiraZareen/IMAGE-CLASSIFICATION.git
    cd image-classification
 2. **Upload the Project to Google Colab:**
 - Upload the Image Classification - Colab.html file to your Google Drive.
